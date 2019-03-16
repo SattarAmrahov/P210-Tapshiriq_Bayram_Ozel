@@ -1,13 +1,17 @@
-# P210-Tapshiriq_Bayram_Ozel
-
-## Tapshiriq 1 - Bootstrap Template:
+# Tapshiriq 1 - Bootstrap Template:
 
 Bootstrap Template folder-indeki template.png shekline uygun website hazirlayin. 
 Saytdaki effektlerin nece olacagina baxmaq ucun Google Drive-da P210 ile share olunmush P210 Videos folderindeki Novruz_bootstrap_template.mp4 videosuna baxin.
 
 Bootstrap istifade edin. Hazirladiginiz website telefon, planshet ve komputer ekranlarina uygun shekilde responsive olsun.
 
-## Tapshiriq 2 - Todo List:
+Istifade etmek ucun shekil tapmaqda cetinlik cekseniz ashagidaki saytlardan istifade ede bilersizin:
+- https://unsplash.com/
+- https://pixabay.com/
+
+
+
+# Tapshiriq 2 - Todo List:
 
 Todo List folderindeki todo.png shekline uygun web application hazirlayin.
 
@@ -22,3 +26,8 @@ Todo List folderindeki todo.png shekline uygun web application hazirlayin.
 - Siyahida 5-den cox item olduqda ashagi ve yuxari hereket etdirmek ucun scroll yaransin
 
 Qeyd: Tapshiriq 2-de hover ve diger effectler ucun JavaScript istifade edin. CSS ile yalnizca umumi dizayni hazirlayin
+
+
+# Tapshiriq 3 - JS Objects:
+
+Coming Soon
