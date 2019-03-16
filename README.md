@@ -85,8 +85,8 @@ Application yuklenen zaman yeni bir Academy object-i yaradin. Menim numunemde "C
 
 Meselen:
 
-let academyAddress = new Address("Nizami street", "Baku", "Azerbaijan"); 
-let myAcademy = new Academy("Code Academy", academyAddress);
+    let academyAddress = new Address("Nizami street", "Baku", "Azerbaijan"); 
+    let myAcademy = new Academy("Code Academy", academyAddress);
 
 Applicationun geride qalan hissesi Drive-da share elediyim Novruz_JS_Objects .mp4 videosundaki kimi olmalidir.
 
